@@ -1,2 +1,2 @@
 # Javascript Projects
-Repository to learn javascript
+01. Drum kit
